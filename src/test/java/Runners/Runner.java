@@ -13,7 +13,7 @@ import org.junit.runner.RunWith;
                 "src/test/resources/Features/EditDeleteEmployee.feature"},
         glue = "StepDefs",
         dryRun = false,
-        tags = "@ui"
+        tags = "@TST-106"
 
 )
 

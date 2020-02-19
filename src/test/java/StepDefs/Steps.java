@@ -145,6 +145,8 @@ public class Steps {
 
         dashBoardPage.deleteBttn.click();
 
+        // click button does NOT work !!
+
 
     }
 
